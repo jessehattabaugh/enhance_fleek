@@ -1,15 +1,16 @@
 {
-	"description": "{{ repository.description }}",
+	"description": "experiment using enhance-ssr with fleek functions",
 	"devDependencies": {
 		"@eslint/compat": "latest",
 		"@eslint/eslintrc": "latest",
 		"@eslint/js": "latest",
+		"@fleek-platform/cli": "latest",
 		"eslint": "latest",
 		"globals": "latest"
 	},
 	"homepage": "{{URL}}",
 	"license": "UNLICENSED",
-	"name": "{{ repository.name }}",
+	"name": "enhance-fleek",
 	"private": true,
 	"scripts": {
 		"kill": "npx kill-port 3000",
