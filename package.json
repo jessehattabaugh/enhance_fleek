@@ -1,6 +1,7 @@
 {
 	"description": "experiment using enhance-ssr with fleek functions",
 	"devDependencies": {
+		"@enhance/ssr": "^4.0.2",
 		"@eslint/compat": "latest",
 		"@eslint/eslintrc": "latest",
 		"@eslint/js": "latest",
