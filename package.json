@@ -8,7 +8,6 @@
 		"eslint": "latest",
 		"globals": "latest"
 	},
-	"homepage": "{{URL}}",
 	"license": "UNLICENSED",
 	"name": "enhance-fleek",
 	"private": true,

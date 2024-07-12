@@ -1,9 +1,9 @@
 {
-  "sites": [
-    {
-      "slug": "hollow-van-ancient",
-      "distDir": "public",
-      "buildCommand": ""
-    }
-  ]
+	"sites": [
+		{
+			"buildCommand": "",
+			"distDir": "public",
+			"slug": "hollow-van-ancient"
+		}
+	]
 }
