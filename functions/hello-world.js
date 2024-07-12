@@ -1,12 +1,11 @@
 import HelloWorld from '../elements/hello-world.js';
 import enhance from '@enhance/ssr';
+
 const html = enhance({
 	elements: {
 		'hello-world': HelloWorld,
 	},
 });
-console.log();
-
 
 export const main = () => {
 	const body = html`<hello-world greeting="Well hi!"></hello-world>`;

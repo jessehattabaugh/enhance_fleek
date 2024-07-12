@@ -1,6 +1,6 @@
-# {{ repository.name }}
+# enhance-fleek
 
-{{ repository.description }}
+an example of how to use fleek to deploy a static site and serverless functions
 
 ## Getting Started
 
